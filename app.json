@@ -3,12 +3,13 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/context/context",
-    "pages/front/front"
+    "pages/front/front",
+    "pages/nextload/nextload"
   ],
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "小可爱啊",
+    "navigationBarTitleText": "小可爱",
     "navigationBarTextStyle":"black"
   },
   "style": "v2",
