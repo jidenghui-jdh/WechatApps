@@ -1,0 +1,8 @@
+<!--pages/context/context.wxml-->
+<text>pages/context/context.wxml</text>
+<view class="container">
+  
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>
+</view>
